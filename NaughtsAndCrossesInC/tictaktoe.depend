@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1550147672 source:c:\users\megan\onedrive\documents\new folder\tictaktoe\resource.rc
+	<windows.h>
+	<commctrl.h>
+	<richedit.h>
+	"resource.h"
+
+1550147672 c:\users\megan\onedrive\documents\new folder\tictaktoe\resource.h
+
+1550147674 source:c:\users\georg\desktop\tictaktoe\resource.rc
+	<windows.h>
+	<commctrl.h>
+	<richedit.h>
+	"resource.h"
+
+1550147674 c:\users\georg\desktop\tictaktoe\resource.h
+
+1550837441 source:c:\users\georg\desktop\tictaktoe\main.cpp
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+
